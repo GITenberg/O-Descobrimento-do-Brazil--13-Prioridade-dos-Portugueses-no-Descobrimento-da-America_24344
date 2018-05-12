@@ -1,0 +1,38 @@
+_repo: O-Descobrimento-do-Brazil--13-Prioridade-dos-Portugueses-no-Descobrimento-da-America_24344
+_version: 0.1.0
+alternative_title: "O Descobrimento do Brasil\r\nPrioridade dos Portugueses no Descobrimento\
+  \ da América"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Redondo, Manuel Ferreira Garcia
+    alias: Redondo, Manuel Ferreira Garcia
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '26417'
+    url: http://www.gutenberg.org/2009/agents/26417
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Ferreira_Garcia_Redondo
+description: ''
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24344'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Ricardo F. Diogo, Júlio Reis and the Online Distributed
+  Proofreading Team at http://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: "São Paulo:\r\nCasa Vanorden\r\n1911"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Discovery and exploration'
+- !lcc 'E011'
+- !lcsh 'America -- Discovery and exploration -- Portuguese'
+title: "O Descobrimento do Brazil\r\nPrioridade dos Portugueses no Descobrimento da\
+  \ America"
+url: http://www.gutenberg.org/ebooks/24344
