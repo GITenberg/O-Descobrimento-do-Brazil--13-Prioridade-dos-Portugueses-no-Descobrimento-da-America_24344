@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26417
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Ferreira_Garcia_Redondo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24344#O-Descobrimento-do-Brazil--13-Prioridade-dos-Portugueses-no-Descobrimento-da-America
 gutenberg_bookshelf: PT Navegações e Explorações
 gutenberg_issued: '2008-01-17'
 gutenberg_type: Text
